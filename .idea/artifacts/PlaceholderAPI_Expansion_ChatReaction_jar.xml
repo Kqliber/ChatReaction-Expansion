@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="PlaceholderAPI-Expansion-ChatReaction:jar">
-    <output-path>$PROJECT_DIR$/../Expansion-ChatReaction</output-path>
-    <root id="archive" name="PlaceholderAPI-Expansion-ChatReaction.jar">
-      <element id="module-output" name="PlaceholderAPI-Expansion-ChatReaction" />
-    </root>
-  </artifact>
-</component>
